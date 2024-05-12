@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>pl.estrx.ss3</groupId>
 	<artifactId>middletier</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>middletier</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -91,7 +91,7 @@
 		<connection>scm:git:file:////Users/kamilmuc/ws/shopsync3/shopsync3-middletier</connection>
 		<developerConnection>scm:git:file:////Users/kamilmuc/ws/shopsync3/shopsync3-middletier</developerConnection>
 		<url>https://github.com/eStrixKamilMucik/shopsync3-middletier.git</url>
-		<tag>middletier-0.0.1</tag>
+		<tag>shopsync3-0.0.1</tag>
 	</scm>
 
 	<repositories>
